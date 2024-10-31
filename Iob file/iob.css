@@ -1,0 +1,50 @@
+
+body{
+    background-color: blue;
+}
+nav{
+    background-color: rgb(247, 247, 248);
+    width:1350px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+#icon1{
+    padding-top: 60px;
+    width:20px;
+}
+
+#a{
+    padding-left: 40px;
+    }
+#b{
+padding-left: 20px;
+}
+#c{
+    padding-left: 20px;
+    }
+    #d{
+        padding-left: 20px;
+        }
+#e{
+            padding-left: 20px;
+            }
+            #f{
+                padding-left: 20px;
+                }
+                #g{
+                    padding-left: 20px;
+                    }
+#aa{
+    padding-top:10px;
+}
+
+#bb{
+    padding-top:30px;
+}
+#dd{
+    padding-top: 30px;
+}
+#cc{
+    padding-top:90px;
+}
